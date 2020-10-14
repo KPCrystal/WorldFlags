@@ -1,2 +1,54 @@
 # WorldFlags
-C# 2D Graphics project. 
+世界の２５国のフラグを表示されます。以下の国のフラグを表示できます。
+•	米国
+•	日本
+•	ミャンマー
+•	中国
+•	イタリア
+•	フランス
+•	ドイツ
+•	UAE
+•	ロシア
+•	チリ
+•	インドネシア
+•	アイルランド
+•	ベルギー
+•	イスラエル
+•	オランダ
+•	ナイジェリア
+•	ポーランド
+•	ルーマニア
+•	コロンビア
+•	セネガル
+•	スウェーデン
+•	オーストラリア
+•	ベトナム
+•	ウクライナ
+•	カメルーン
+
+C# 2D graphics tutorial for begineer. In this project, you can study 25 countries flags drawing as shown in below.
+•	USA
+•	Japan
+•	Myanmar
+•	Japan
+•	Italy
+•	France
+•	Germany
+•	UAE
+•	Russia
+•	Chile
+•	Indonesia
+•	Ireland
+•	Belgium
+•	Israel
+•	Netherland
+•	Nigeria
+•	Holand
+•	Romania
+•	Colombia
+•	Senegal
+•	Sweden
+•	Austria
+•	Vietnam
+•	Ukraine
+•	Cameroon
